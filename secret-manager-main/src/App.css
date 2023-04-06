@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.App_container {
+  /* min-height: 150px; */
+  padding: 20px;
+  min-width: 200px;
+}
